@@ -24,4 +24,5 @@
    24  git restore testing.py
    25  git status
    26  history
+      git clone "github code http link"
 
