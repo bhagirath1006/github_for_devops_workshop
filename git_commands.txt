@@ -1,0 +1,27 @@
+ su -
+    2  whoami
+    3  git --version
+    4  hostname
+    5  mdir git_for_devops
+    6  mkdir git_for_devops
+    7  ll
+    8  cd git_for_devops/
+    9  ll
+   10  pwd
+   11  git init
+   12  git status
+   13  ls
+   14  ll
+   15  ls -la
+   16  vim testing.py
+   17  git status
+   18   git add testing.py
+   19  git status
+   20  git commit -m testing.py
+   21  git status
+   22  rm testing.py
+   23  git status
+   24  git restore testing.py
+   25  git status
+   26  history
+
